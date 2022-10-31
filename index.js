@@ -5,8 +5,8 @@ const https = require('https');
 const fs = require('fs');
 const path = require('path');
 
-var privateKey = fs.readFileSync('./certs/dex.key', 'utf8');
-var certificate = fs.readFileSync('./certs/dex.crt', 'utf8');
+var privateKey = fs.readFileSync('../certs/dex.key', 'utf8');
+var certificate = fs.readFileSync('../certs/dex.crt', 'utf8');
 var credentials = { key: privateKey, cert: certificate };
 
 // const FRONTENDPATH = path.normalize(__dirname + '/build')
