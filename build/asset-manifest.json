@@ -6,8 +6,8 @@
     "runtime-main.js": "/static/js/runtime-main.905c1c33.js",
     "runtime-main.js.map": "/static/js/runtime-main.905c1c33.js.map",
     "static/css/2.5b5b985f.chunk.css": "/static/css/2.5b5b985f.chunk.css",
-    "static/js/2.a6b6867a.chunk.js": "/static/js/2.a6b6867a.chunk.js",
-    "static/js/2.a6b6867a.chunk.js.map": "/static/js/2.a6b6867a.chunk.js.map",
+    "static/js/2.a77dbaef.chunk.js": "/static/js/2.a77dbaef.chunk.js",
+    "static/js/2.a77dbaef.chunk.js.map": "/static/js/2.a77dbaef.chunk.js.map",
     "static/js/3.356bcfcd.chunk.js": "/static/js/3.356bcfcd.chunk.js",
     "static/js/3.356bcfcd.chunk.js.map": "/static/js/3.356bcfcd.chunk.js.map",
     "static/js/4.a3dbf256.chunk.js": "/static/js/4.a3dbf256.chunk.js",
@@ -29,7 +29,7 @@
     "index.html": "/index.html",
     "static/css/2.5b5b985f.chunk.css.map": "/static/css/2.5b5b985f.chunk.css.map",
     "static/css/main.47601f69.chunk.css.map": "/static/css/main.47601f69.chunk.css.map",
-    "static/js/2.a6b6867a.chunk.js.LICENSE.txt": "/static/js/2.a6b6867a.chunk.js.LICENSE.txt",
+    "static/js/2.a77dbaef.chunk.js.LICENSE.txt": "/static/js/2.a77dbaef.chunk.js.LICENSE.txt",
     "static/js/3.356bcfcd.chunk.js.LICENSE.txt": "/static/js/3.356bcfcd.chunk.js.LICENSE.txt",
     "static/media/style.css": "/static/media/ChakraPetch-Regular.f4019d33.ttf",
     "static/media/autoClaim.5ea05d33.png": "/static/media/autoClaim.5ea05d33.png",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.905c1c33.js",
     "static/css/2.5b5b985f.chunk.css",
-    "static/js/2.a6b6867a.chunk.js",
+    "static/js/2.a77dbaef.chunk.js",
     "static/css/main.47601f69.chunk.css",
     "static/js/main.38ef1118.chunk.js"
   ]
